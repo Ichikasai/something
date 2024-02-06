@@ -1,3 +1,3 @@
 # A random Project
 
-i have yet an idea of what I should do 
+I have yet an idea of what I should do 
